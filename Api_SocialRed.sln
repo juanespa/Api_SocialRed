@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_SocialRed", "Api_SocialRed.csproj", "{EFD759CD-4765-4911-B3F8-413301DD4456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD759CD-4765-4911-B3F8-413301DD4456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD759CD-4765-4911-B3F8-413301DD4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD759CD-4765-4911-B3F8-413301DD4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD759CD-4765-4911-B3F8-413301DD4456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F62948E-ACD4-412D-BCF3-1F3BC492E52F}
+	EndGlobalSection
+EndGlobal
