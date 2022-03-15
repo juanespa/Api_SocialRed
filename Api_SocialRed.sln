@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_SocialRed", "Api_SocialRed.csproj", "{EFD759CD-4765-4911-B3F8-413301DD4456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model_RedSocial", "..\Model_RedSocial\Model_RedSocial.csproj", "{74C933DD-3CC1-4E83-B735-02F43D13F000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EFD759CD-4765-4911-B3F8-413301DD4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFD759CD-4765-4911-B3F8-413301DD4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFD759CD-4765-4911-B3F8-413301DD4456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C933DD-3CC1-4E83-B735-02F43D13F000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C933DD-3CC1-4E83-B735-02F43D13F000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C933DD-3CC1-4E83-B735-02F43D13F000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C933DD-3CC1-4E83-B735-02F43D13F000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
